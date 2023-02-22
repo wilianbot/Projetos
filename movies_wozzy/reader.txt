@@ -1,0 +1,8 @@
+Feramentas Utilizadas
+
+# Vite
+# API - The Movie Database API - DB
+
+Linguagens
+
+React with JavaScript
