@@ -1,8 +1,16 @@
-Feramentas Utilizadas
+// Feramentas Utilizadas
 
 # Vite
 # API - The Movie Database API - DB
 
-Linguagens
+
+// Linguagens
 
 React with JavaScript
+
+
+// Dependencias 
+
+# npm install
+# npm install react-icons 
+# npm install react-router-dom
